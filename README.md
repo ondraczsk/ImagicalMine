@@ -34,7 +34,7 @@
 - The original code in ImagicalMine is from [PocketMine-MP](https://github.com/PocketMine/PocketMine-MP). All original code structure and base was written by the [PocketMine Team](https://github.com/PocketMine).
 - ImagicalMine is based on the [Hydreon Corporation's](https://github.com/Hydreon) [Katana](https://github.com/Hydreon/Katana) project. Code taken from the project include the hunger core, the terminal like interface and experimental skin fixes for the MCPE 0.13.0 update.
 - Some of the code in ImagicalMine is taken from the [Hydreon Corporation's](https://github.com/Hydreon) project. Code taken from [Steadfast2](https://github.com/Hydreon/Steadfast2) was used for an experimental skin fix during the MCPE 0.13.0 update.
-- Some of the code in ImagicalMine is taken from the [@hmy2001's](https://github.com/hmy2001) project. Code taken from [PocketMine-0.13.x](https://github.com/HmyTeamOrganization/PocketMine-0.13.x) was used for an experimental skin fix during the MCPE 0.13.0 update.
+- Some of the code in ImagicalMine is taken from the [@hmy2001's](https://github.com/hmy2001) project. Code taken from [PocketMine-0.13.x](https://github.com/iPocketTeam/PocketMine-0.13.x) was used for an experimental skin fix during the MCPE 0.13.0 update.
 - Some of the code in ImagicalMine is taken from the [iTXTech's](https://github.com/iTXTech) project. Code taken from [Genisys](https://github.com/iTXTech/Genisys) was used for a variety of bug fixes and patches and new feature updates.
 - Some of the code in ImagicalMine is taken from the [ClearSkyTeam's](https://github.com/ClearSkyTeam) project. Code taken from [ClearSky](https://github.com/ClearSkyTeam/ClearSky) was used for new features and fixes.
 
@@ -70,7 +70,7 @@ Some MCPE server hosting providers support ImagicalMine as a version for their c
 * __[HostMyServers](http://hostmyservers.com)__
 * __[HostingItAll](http://hostingitall.com)__
 * __[InfinityBox](http://infinitybox.ml)__
-* __[MinersPlanet](http://minersplanet.com)__
+* __[MinersPlanet](https://www.minersplanet.com/)__
 * __[ExtraVM](https://www.extravm.com)__
 **If you are a MCPE server hosting provider and you support ImagicalMine as a version available for download and to use as part of your service, contact us and we'll happily add your business to the list.**
 
@@ -81,9 +81,9 @@ Here's the complete list:
 * __[PHP SQLite3](http://php.net/manual/en/book.sqlite3.php)__
 * __[PHP BCMath](http://php.net/manual/en/book.bc.php)__
 * __[PHP pthreads](http://pthreads.org/)__ by _[krakjoe](https://github.com/krakjoe)_: Threading for PHP - Share Nothing, Do Everything.
-* __[PHP YAML](https://code.google.com/p/php-yaml/)__ by _Bryan Davis_: The Yaml PHP Extension provides a wrapper to the LibYAML library.
+* __[PHP YAML](https://code.google.com/archive/p/php-yaml)__ by _Bryan Davis_: The Yaml PHP Extension provides a wrapper to the LibYAML library.
 * __[LibYAML](http://pyyaml.org/wiki/LibYAML)__ by _Kirill Simonov_: A YAML 1.1 parser and emitter written in C.
-* __[cURL](http://curl.haxx.se/)__: cURL is a command line tool for transferring data with URL syntax
+* __[cURL](https://curl.haxx.se/)__: cURL is a command line tool for transferring data with URL syntax
 * __[Zlib](http://www.zlib.net/)__: A Massively Spiffy Yet Delicately Unobtrusive Compression Library
 * __[Source RCON Protocol](https://developer.valvesoftware.com/wiki/Source_RCON_Protocol)__
 * __[UT3 Query Protocol](http://wiki.unrealadmin.org/UT3_query_protocol)__
