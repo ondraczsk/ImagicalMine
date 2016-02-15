@@ -1957,7 +1957,8 @@ class Player extends Human implements CommandSender, InventoryHolder, ChunkLoade
 				$this->setNameTag($this->username);
 				$this->iusername = strtolower($this->username);
 				$this->protocol = $packet->protocol1;
-				if(count($this->server->getOnlinePlayers()) >= $this->server->getMaxPlayers() and $this->kick("disconnectionScreen.serverFull", false)){
+				if(count($this->server->getOnlinePlayers()) >= $this->server->getMaxPlayers()){
+					$this->kick("disconnectionScreen.serverFull", false);
 					break;
 				}
 				if(!in_array($packet->protocol1, ProtocolInfo::ACCEPTED_PROTOCOLS)){
